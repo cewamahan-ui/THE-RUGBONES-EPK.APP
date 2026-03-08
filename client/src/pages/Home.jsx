@@ -285,7 +285,7 @@ function Hero() {
               transition: "opacity 0.6s ease",
             }}
           >
-           
+
           </p>
           <h1
             className="font-display leading-none mb-6"
@@ -718,10 +718,11 @@ function Footer() {
 
   return (
     <footer
-      className="py-8 px-6"
+      className="px-6 md:py-8 py-4"
       style={{
         backgroundColor: "#0A0A0A",
         borderTop: "1px solid rgba(232,245,60,0.15)",
+        marginTop: "-1px"
       }}
     >
       <div className="container mx-auto flex flex-col md:flex-row items-center justify-between gap-4">
