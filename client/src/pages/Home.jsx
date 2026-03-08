@@ -601,10 +601,9 @@ function Music() {
   return (
     <section
       id="music"
+      className="py-8 md:py-20"
       style={{
         backgroundColor: "#0A0A0A",
-        paddingTop: "5rem",
-        paddingBottom: "5rem",
       }}
     >
       <div className="container mx-auto px-6">
