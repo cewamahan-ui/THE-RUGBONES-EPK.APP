@@ -30,7 +30,7 @@ const IMAGES = {
     "https://d2xsxph8kpxj0f.cloudfront.net/310519663409368931/9SmzNoHwMdGrmSi7xyAWFy/009_e2a469ed.webp",
   marsTwin:
     "https://d2xsxph8kpxj0f.cloudfront.net/310519663409368931/9SmzNoHwMdGrmSi7xyAWFy/010_0e2b2e29.webp",
-  umansia:
+  umanisia:
     "https://d2xsxph8kpxj0f.cloudfront.net/310519663409368931/9SmzNoHwMdGrmSi7xyAWFy/011_97847cf0.webp",
   fk: "https://d2xsxph8kpxj0f.cloudfront.net/310519663409368931/9SmzNoHwMdGrmSi7xyAWFy/012_0d5ff5e5.webp",
   gumbo:
@@ -69,7 +69,7 @@ const members = [
     traits: ["Rapper / Singer", "plays electric & bass guitar", "Resident YN"],
   },
   {
-    name: "LEROY OKIWIKI",
+    name: "LEROY OKIWIRI",
     img: IMAGES.leroyOkiwiri,
     traits: [
       "Rapper",
@@ -87,8 +87,8 @@ const members = [
     ],
   },
   {
-    name: "UMANSIA",
-    img: IMAGES.umansia,
+    name: "UMANISIA",
+    img: IMAGES.umanisia,
     traits: [
       "Live Sound Engineer",
       "Producer / Rapper",
