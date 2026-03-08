@@ -658,10 +658,10 @@ function Contact() {
     <section
       id="contact"
       className="relative"
-      style={{ backgroundColor: "#0A0A0A" }}
+      style={{ backgroundColor: "#0A0A0A", paddingBottom: 0 }}
     >
       <div
-        className="relative overflow-hidden rounded-lg"
+        className="relative overflow-hidden rounded-b-none"
         style={{ minHeight: "500px" }}
       >
         <img
